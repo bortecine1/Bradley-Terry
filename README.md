@@ -18,7 +18,7 @@ biçiminde bir logit model ile de ifade edilebilmektedir. Görsel (3)’te ve �
 
 ![image](https://github.com/user-attachments/assets/cec9775a-040c-4aa7-9fe9-8457ff1147c3) *(4)*
 
-Görsel (4)’te, i. takım ev sahibi takım olmak üzere, , i. takımın j. takımı yenme olasılığıdır ve (>0) parametresi evsahibi olma avantajını gösteren parametredir. Tarafsızca eşleştirilmiş iki takımdan ev sahibi olan takımın kazanma olasılığı,
+Görsel (4)’te, i. takım ev sahibi takım olmak üzere, , i. takımın j. takımı yenme olasılığıdır ve (>0) parametresi evsahibi olma avantajını gösteren parametredir. Tarafsızca eşleştirilmiş iki takımdan ev sahibi olan takımın kazanma olasılığı,
 
 ![image](https://github.com/user-attachments/assets/a1151f94-d2b1-4f59-9bf9-f68d2f9dc606) *(5)*
 
